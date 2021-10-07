@@ -30,6 +30,5 @@ config/config_db_local.json
 config/config_db_test.json
 diffcheck/
 
-*.sh
 
 app/logs/production.log
